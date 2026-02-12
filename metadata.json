@@ -1,0 +1,5 @@
+{
+  "name": "DocuMark AI",
+  "description": "An intelligent document conversion tool that transforms PDF and Word documents into structured Markdown using Gemini API, featuring a split-screen interface for real-time comparison and outline navigation.",
+  "requestFramePermissions": []
+}
